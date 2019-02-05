@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\app_server",
+    "\\app_server\\Controllers",
+    "\\app_server\\Models",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\bin"
   ],
-  "SelectedNode": "\\public\\bootstrap",
+  "SelectedNode": "\\app_server\\Controllers",
   "PreviewInSolutionExplorer": false
 }
